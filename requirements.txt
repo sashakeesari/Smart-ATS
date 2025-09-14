@@ -1,0 +1,6 @@
+streamlit
+streamlit-extras
+python-dotenv
+PyPDF2
+SQLAlchemy
+google-generativeai
